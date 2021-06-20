@@ -1,0 +1,6 @@
+:host {
+  display: flex;
+  justify-content: flext-start !important;
+  flex-wrap: wrap;
+  height: 100vh;
+}

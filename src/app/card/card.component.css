@@ -1,0 +1,23 @@
+.card {
+  width: 350px;
+  margin: 10px 12px;
+}
+.subtitle {
+  font-weight: bold;
+}
+
+hr {
+  background-color: red;
+  height: 1px;
+}
+
+@media screen and (max-width: 768px){
+.media-content {
+    overflow-x: unset;
+};
+}
+
+/*
+
+Energetic Software Engineer passionate about developing agile software utilizing front end and back end technology stack. A dedicated team player looking forward to leveraging my professional experience and skills to significantly contribute to the organization along with
+enhancing my abilities. */
